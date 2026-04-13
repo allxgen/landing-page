@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "allxgen - AI-Powered Generation Platform",
-  description: "Unlock infinite possibilities with allxgen's cutting-edge AI technology. Generate, create, and innovate like never before.",
+  title: "allxgen - Connecting All Generations",
+  description: "allxgen is building experimental social products that bridge generations. Connect, collaborate, and create with people of all ages.",
 };
 
 export default function RootLayout({
