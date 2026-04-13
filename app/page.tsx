@@ -147,10 +147,10 @@ export default function Home() {
             Interested in joining allxgen or learning more about what we're building?
           </p>
           <a
-            href="mailto:support@allxgen.com"
+            href="mailto:admin@allxgen.com"
             className="inline-block px-10 py-4 rounded-lg bg-gradient-to-r from-blue-500 to-cyan-500 text-white font-semibold hover:from-blue-600 hover:to-cyan-600 transition-all transform hover:scale-105 shadow-lg"
           >
-            Email: support@allxgen.com
+            Email: admin@allxgen.com
           </a>
         </div>
       </section>

@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Contact
 
-For inquiries and support, reach out to us at **support@allxgen.com**
+For inquiries and support, reach out to us at **admin@allxgen.com**
 
 ### Technology
 
